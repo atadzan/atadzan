@@ -35,8 +35,8 @@
 
 ### 🧪 Side Projects
 
-- 📬 Email-based OTP auth service in Go
-- 🌐 Language API (ISO language codes + translations)
+- ✂️ **Servly API** *(public soon)* — service booking backend (like Booking.com but for barbershops & salons)  
+  <sub>Designed to manage schedules, appointments, and client interactions</sub>
 
 ---
 
