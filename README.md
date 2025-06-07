@@ -10,7 +10,7 @@
 
 - 💻 Backend engineer with hands-on experience in **Go**, **PostgreSQL**, **Redis**, **MinIO**, **RabbitMQ**, and **Kafka**
 - 🧩 Currently learning **DevOps** (Docker, CI/CD, Kubernetes)
-- 🎯 Personal goal: Achieve financial freedom and launch my own product/business
+- 🎯 Personal goal: Develop a community-focused product and secure the financial foundation to support future innovation.
 - 🧠 Passionate about scalable architectures and reliable backend systems
 - 🪙 Exploring the **crypto industry** as a hobby
 
